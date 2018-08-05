@@ -1,0 +1,39 @@
+.title > * {
+    background-color: #f0f0f0;
+    padding: 20px 40px 20px 20px;
+}
+
+button.btn-close-top {
+    background-color: transparent;
+    box-shadow: none;
+    position: absolute;
+    top: 37px;
+    right: 27px;
+}
+
+div.btn-row {
+    justify-content: flex-start;
+    padding: 0 20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-row .MuiButton-text-7 {
+    color: #31bfe8;
+}
+
+.btn-row .MuiButton-containedPrimary-15 {
+    background-color: #1fb9e6;
+}
+
+.btn-row .MuiButton-containedPrimary-15:hover {
+    background-color: #20caf7;
+}
+
+.btn-row button {
+    background-color: transparent;
+    box-shadow: none;
+}
